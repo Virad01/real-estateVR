@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 501249504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe24d5741c81038767d2c652287cc2c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/dOOR_002.controller
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/LeftHandAnimator.controller
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/RightHandAnimator.controller
+Dependencies:
+- C:/Users/virad/Desktop/The SIH/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/Users/virad/Desktop/The SIH/OVRAssetBundles/OVRMasterBundle/asset_fbx0

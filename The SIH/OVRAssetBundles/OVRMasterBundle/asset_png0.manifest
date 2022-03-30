@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 210402465
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64e7373ef545e332a9bae005981a0c68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Brick Project Studio/SE Basic Assets/Textures/Building Floor Tile - 01 -
+  normal.png
+- Assets/Brick Project Studio/SE Basic Assets/Textures/Building Floor Tile - 01.png
+Dependencies: []
